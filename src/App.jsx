@@ -10,6 +10,8 @@ function App() {
   const [menu, setMenu] = useState(data.menu);
   const [cart, setCart] = useState([]);
   console.log(cart);
+  
+  
 
   return (
     <div>
